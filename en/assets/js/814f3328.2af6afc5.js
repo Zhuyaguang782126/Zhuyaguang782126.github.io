@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbyconity=self.webpackChunkbyconity||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u5728 k8s \u4e0a\u4f7f\u7528 RoCE \u7f51\u7edc","permalink":"/en/blog/2023-08-22-RoCE-on-kubernetes"}]}')}}]);
