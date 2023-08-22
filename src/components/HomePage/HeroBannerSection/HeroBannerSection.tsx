@@ -21,7 +21,7 @@ function HeroBannerSection() {
         <div>
           <Link
             className={styles.getStartedButton}
-            to="/docs/introduction/main-principle-concepts"
+            to="/docs/meetup/gpgpu-related-tools"
           >
             <Translate id="getStarted" />
           </Link>

@@ -274,19 +274,19 @@
     "message": "此页面正在开发中"
   },
   "communityPage.title": {
-    "message": "社区"
+    "message": "技术成果"
   },
   "usersPage.title": {
     "message": "用户"
   },
   "homePage.communitySection.title": {
-    "message": "加入社区"
+    "message": "加入智能原生社区"
   },
   "homePage.getStartedSection.title": {
-    "message": "开始使用ByConity"
+    "message": "开始加入智能原生社区"
   },
   "homePage.getStartedSection.readDocs.title": {
-    "message": "文档中心"
+    "message": "技术分享"
   },
   "getStarted": {
     "message": "快速开始"
@@ -295,34 +295,34 @@
     "message": "开源代码"
   },
   "homePage.introductionSection.title": {
-    "message": "ByConity是什么？"
+    "message": "智能原生社区是什么？"
   },
   "homePage.introductionSection.description": {
-    "message": "ByConity 是分布式的云原生SQL数仓引擎，擅长交互式查询和即席查询，具有支持多表关联复杂查询、集群扩容无感、离线批数据和实时数据流统一汇总等特点。"
+    "message": "社团聚焦系统开发、操作系统、编译器开发、Golang开发、高性能计算等技术方向，旨在为智能原生领域的室友们提供一个自由的技术交流平台，与领域内专家大咖们共同探讨智能原生技术。"
   },
   "homePage.keyFeaturesSection.feature1.title": {
-    "message": "高性能低成本"
+    "message": "干货多"
   },
   "homePage.keyFeaturesSection.feature1.description": {
-    "message": "支持在海量数据规模下，通过向量化执行引擎、列式存储和CBO+RBO优化器达成亚秒级查询响应能力。同时超高压缩比率帮助用户节省大量存储空间，降低磁盘成本。"
+    "message": "在这里有前言的探索性技术[AR]（如设计或评估新型的实时操作系统），实实在在的干货分享[文档]（如智能原生操作系统的经验，不同指令集支持的经验等），新思维的碰撞[烟花]，期待更多智能原生领域感兴趣的室友们加入社团，共建、共享，共同推动智能原生技术的发展"
   },
   "homePage.keyFeaturesSection.feature2.title": {
-    "message": "多种场景统一支持"
+    "message": "大咖多"
   },
   "homePage.keyFeaturesSection.feature2.description": {
-    "message": "支持实时数据流和离线批数据写入，具有交互式事物能力和多表关联查询能力，既可以满足线上系统的交互式查询需求，也可以满足后台实时监控、报表大屏等。"
+    "message": "智能原生技术交流小组发起人为智能计算软件研究中心潘爱民老师，著名操作系统专家，长期从事软件和系统技术的研究与开发工作，著作或译作多部计算机经典书籍或教材，如《C++Prime中文版》（第三版）、《VisualC++技术内幕》（第四、六版）、《程序员的自我修养之系统篇》等"
   },
   "homePage.keyFeaturesSection.feature3.title": {
-    "message": "生态友好"
+    "message": "活动多"
   },
   "homePage.keyFeaturesSection.feature3.description": {
-    "message": "兼容ClickHouse大多数接口和工具，支持Kafka、Spark、Flink等多种数据导入，也支持Superset，Tableau等数据可视化工具。"
+    "message": "每个月都有线下 meetup，已经分享了《Chatgpt背后的技术》、《大模型的洞察与挑战》、《Ray在蚂蚁的发展》、《基于ARMv9-CPU的创业团队中的操作系统》"
   },
   "homePage.keyFeaturesSection.title": {
-    "message": "核心优势"
+    "message": "社区优势"
   },
   "tagline": {
-    "message": "云原生大数据分析引擎"
+    "message": "智能原生社区"
   },
   "homePage.communitySection.github.title": {
     "message": "Github"

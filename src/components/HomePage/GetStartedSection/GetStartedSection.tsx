@@ -16,10 +16,7 @@ function GetStartedSection() {
         </div>
 
         <div className={styles.buttons}>
-          <Link
-            className={styles.button}
-            to="/docs/introduction/main-principle-concepts"
-          >
+          <Link className={styles.button} to="/docs/meetup/gpgpu-related-tools">
             <FileIcon />
             <Translate id="homePage.getStartedSection.readDocs.title" />
           </Link>

@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ByConity',
-  tagline: '云原生大数据分析引擎',
+  title: 'Intelligence Native Group',
+  tagline: '智能原生社区',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -30,7 +30,7 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
+    defaultLocale: 'zh-cn',
     locales: ['en', 'zh-cn'],
   },
 
@@ -71,7 +71,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/byconity-social-card.png',
       navbar: {
-        title: 'ByConity',
+        title: 'Intelligence Native Group',
         hideOnScroll: true,
         logo: {
           alt: 'ByConity Logo',
@@ -80,7 +80,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'introduction/main-principle-concepts',
+            docId: 'meetup/gpgpu-related-tools',
             position: 'left',
             label: 'Docs',
           },
@@ -113,7 +113,7 @@ const config = {
             items: [
               {
                 label: 'Docs',
-                to: '/docs/introduction/main-principle-concepts',
+                to: '/docs/meetup/gpgpu-related-tools',
               },
             ],
           },
