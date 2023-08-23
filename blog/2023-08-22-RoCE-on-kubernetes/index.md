@@ -236,8 +236,6 @@ ib_write_bw -d mlx5_2 -F --report_gbits 10.106.156.3
 
   ```
   ib_send_bw -d mlx5_3 -i 1 -R --report_gbits
-
-
   ib_send_bw -d mlx5_3 -i 1 -R --report_gbits 10.106.156.4
   ```
 

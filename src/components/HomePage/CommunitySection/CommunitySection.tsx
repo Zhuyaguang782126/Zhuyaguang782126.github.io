@@ -9,6 +9,8 @@ import TwitterLogo from './twitter-logo.svg';
 import WechatLogo from './wechat-logo.svg';
 import wechatQrPath from './wechat-qr.jpeg';
 import DiscordLogo from './discord-logo.svg';
+import DingTalkLogo from './dingtalk-logo.svg';
+import dingtalkQrPath from './dingtalkQrPath.png';
 
 import styles from './CommunitySection.module.scss';
 import clsx from 'clsx';
@@ -78,6 +80,12 @@ function CommunitySection() {
             image={<DiscordLogo />}
             externalLink="https://discord.gg/V4BvTWGEQJ"
             title={<Translate id="homePage.communitySection.discord.title" />}
+          />
+
+          <LogoDisplay
+            image={<DingTalkLogo />}
+            hoverImageSrc={dingtalkQrPath}
+            title={'钉钉'}
           />
 
           <LogoDisplay
